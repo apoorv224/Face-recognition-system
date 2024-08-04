@@ -1,9 +1,16 @@
-# Face-recognition-system
-Machine Learning Project
-Welcome to the Face Recognition Program repository! This project leverages advanced facial feature analysis to identify individuals based on input images. By comparing the facial features of an input image with a dataset of trained images, the program accurately determines the identity of the person in the image.
+Welcome to the Face Recognition Program repository! This project is designed to identify individuals by analyzing their facial features in input images and comparing them with a set of pre-trained images. The program leverages cutting-edge facial recognition algorithms to achieve high accuracy and efficiency.
 
-Features
-Accurate Face Identification: Utilizes sophisticated algorithms to analyze and recognize facial features.
-Training with Custom Images: Easily train the model with your own images for personalized recognition.
-Real-time Analysis: Supports real-time face recognition from live camera feeds.
-High Precision: Achieves high accuracy rates through advanced feature extraction and matching techniques.
+Key Features
+Advanced Facial Feature Analysis: Utilizes state-of-the-art algorithms to detect and analyze unique facial features.
+Custom Training: Allows users to train the model with their own dataset of images, enhancing recognition accuracy for specific individuals.
+Real-time Face Recognition: Supports real-time face detection and recognition from live camera feeds.
+High Precision and Accuracy: Employs robust feature extraction and matching techniques to ensure reliable identification.
+User-Friendly Interface: Easy-to-use command-line interface for training and recognition tasks.
+Getting Started
+Prerequisites
+Ensure you have the following installed:
+
+Python 3.x
+OpenCV
+dlib
+NumPy
