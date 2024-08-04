@@ -2,6 +2,14 @@ Face Recognition Program
 
 Welcome to the Face Recognition Program repository! This project leverages advanced facial recognition algorithms using TensorFlow and OpenCV to analyze and identify individuals from input images by comparing their facial features with a trained dataset. The program is designed to provide high accuracy and efficiency, making it suitable for various applications such as security, authentication, and more.
 
+
+## Download Dataset
+
+The training images are hosted on Google Drive/Dropbox. Please download the dataset using the link below and place it in the `data` directory of the project.
+
+[Download Dataset from Google Drive](https://drive.google.com/drive/folders/1ocnYdPnjs-P5FXQHAEppKG67pbOtejyz?usp=sharing)
+
+
 #Key Features:
 
 1. Advanced Facial Feature Analysis: Utilizes state-of-the-art convolutional neural networks (CNNs) to detect and analyze unique facial features.
